@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepakram0929
+- 👋 Hi, I’m Deepakram
 - 👀 I’m interested in AWS DEVOPS
 - 🌱 I’m currently learning DEVOPS
 
