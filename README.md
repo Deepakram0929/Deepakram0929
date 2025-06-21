@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Deepakram
-- 👀 I’m interested in AWS DEVOPS
-- 🌱 I’m currently learning DEVOPS
+# Hi 👋, I'm Deepak DR
+
+👨‍💻 DevOps Engineer | MERN Stack Developer | AWS Certified | Tech Enthusiast
+
+Passionate about building scalable, cloud-native applications, automating workflows, and mentoring others in DevOps & full-stack development.
+
 -  Visit: [https://deepakram0929.github.io/Myportfolio/]
 
 <!---
