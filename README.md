@@ -1,6 +1,6 @@
-# Hi 👋, I'm Deepak DR
+# Hi, I'm Deepak! 👋 
 
-👨‍💻 DevOps Engineer | MERN Stack Developer | AWS Certified | Tech Enthusiast
+👨‍💻 AWS DevOps Engineer | Full Stack Developer 
 
 Passionate about building scalable, cloud-native applications, automating workflows, and mentoring others in DevOps & full-stack development.
 
