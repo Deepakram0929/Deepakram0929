@@ -33,11 +33,14 @@ Passionate about building scalable, cloud-native applications, automating workfl
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=deepakram0929&theme=dark" alt="GitHub Streak" />
-</p>
+## 🔥 GitHub Streak
 
+![GitHub Streak](https://streak-stats.demolab.com?user=deepakram0929&theme=dark)
 
+<!-- Optional: Top Languages -->
+<!-- <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakram0929&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p> -->
 
 ##  GitHub Stats
 
