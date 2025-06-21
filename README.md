@@ -19,6 +19,10 @@ Passionate about building scalable, cloud-native applications, automating workfl
 ![Shell](https://img.shields.io/badge/Shell_Scripting-89E051?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+##  Frontend
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
 ## 📈 Github Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakram0929&theme=dark)
