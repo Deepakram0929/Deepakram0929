@@ -7,10 +7,10 @@ Passionate about building scalable, cloud-native applications, automating workfl
 ## Tools and languages
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Linux OS](https://img.shields.io/badge/-Linux_OS-FCC624?logo=linux&logoColor=black)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white)
+![Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -30,6 +30,7 @@ Passionate about building scalable, cloud-native applications, automating workfl
 ##  Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ## 📈 Github Streak
 
