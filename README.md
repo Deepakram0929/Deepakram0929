@@ -27,3 +27,20 @@ Passionate about building scalable, cloud-native applications, automating workfl
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakram0929&show_icons=true&locale=en&layout=compact" alt="deepakram0929" /></p> -->
 
 
+## Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/deepak0929/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak0929" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/deepak___ram_/?hl=en" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepak___ram_" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@deepakram0929" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deepakram0929" height="30" width="40" />
+  </a>
+  <a href="https://github.com/deepakram0929" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+  </a>
+</p>
+
