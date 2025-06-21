@@ -38,6 +38,10 @@ Passionate about building scalable, cloud-native applications, automating workfl
 
 <!-- Optional: Top Languages -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakram0929&show_icons=true&locale=en&layout=compact" alt="deepakram0929" /></p> -->
+## ⚡ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakram0929&show_icons=true&theme=dark)
+
 
 
 ## Connect with me
