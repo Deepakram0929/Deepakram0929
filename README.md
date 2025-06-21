@@ -33,7 +33,7 @@ Passionate about building scalable, cloud-native applications, automating workfl
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=deepakram0929&theme=dark)
 
@@ -45,8 +45,6 @@ Passionate about building scalable, cloud-native applications, automating workfl
 ##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakram0929&show_icons=true&theme=dark)
-
-
 
 ## Connect with me
 
