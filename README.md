@@ -9,6 +9,7 @@ Passionate about building scalable, cloud-native applications, automating workfl
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Linux OS](https://img.shields.io/badge/-Linux_OS-FCC624?logo=linux&logoColor=black)
+![RHEL](https://img.shields.io/badge/-RHEL-EE0000?logo=redhat&logoColor=white)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
