@@ -20,6 +20,7 @@ Passionate about building scalable, cloud-native applications, automating workfl
 ![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-4EAA25?logo=gnu-bash&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-4EAA25?logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
 
 ### Monitoring
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
