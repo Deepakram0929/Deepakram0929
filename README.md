@@ -49,14 +49,11 @@ Passionate about building scalable, cloud-native applications, automating workfl
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakram0929&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p> -->
 
-##  GitHub Stats                                                                                                
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakram0929&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakram0929&show_icons=true&theme=dark&hide_border=true)
-
-##  Most Used Languages
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakram0929&layout=compact&theme=dark&hide_border=true)
-
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakram0929&layout=compact&theme=dark&hide_border=true&langs_count=8)
 ### Websites for Deployment
 
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
