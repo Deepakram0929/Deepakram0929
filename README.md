@@ -51,11 +51,11 @@ Passionate about building scalable, cloud-native applications, automating workfl
 
 ##  GitHub Stats                                                                                                
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakram0929&show_icons=true&theme=dark)    
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakram0929&show_icons=true&theme=dark&hide_border=true)
 
 ##  Most Used Languages
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakram0929&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakram0929&layout=compact&theme=dark&hide_border=true)
 
 ### Websites for Deployment
 
