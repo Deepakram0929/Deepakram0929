@@ -16,6 +16,7 @@ Passionate about building scalable, cloud-native applications, automating workfl
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A66C2?logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Rancher](https://img.shields.io/badge/-Rancher-0075A8?logo=rancher&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-00A0A)
 ![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-4EAA25?logo=gnu-bash&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-4EAA25?logo=gnu-bash&logoColor=white)
