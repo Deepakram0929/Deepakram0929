@@ -1,6 +1,6 @@
 # Hi, I'm Deepak! 👋 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=000000&lines=AWS+DevOps+Engineer+!!;Full+Stack+Developer+!!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&vCenter=true&width=850&color=000000&lines=DevOps+%26+Platform+Engineer;Cloud+%7C+CI%2FCD+%7C+Kubernetes)
 
 Passionate about building scalable, cloud-native applications, automating workflows, and mentoring others in DevOps & full-stack development.
 
