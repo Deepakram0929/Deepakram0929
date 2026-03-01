@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&vCenter=true&width=850&color=000000&lines=DevOps+%26+Platform+Engineer;Cloud+%7C+CI%2FCD+%7C+Kubernetes)
 
-Passionate about building scalable, cloud-native applications, automating workflows, and mentoring others in DevOps & full-stack development.
+Experienced System Integration & Platform Engineer working across production and pre-production environments with a strong focus on application deployment, platform stability, and end-to-end systems management. Skilled in handling large-scale Kubernetes (Rancher/K8s) clusters, resolving node, pod, and container-level issues, and ensuring smooth application delivery.
 
 ## Tools and languages
 
